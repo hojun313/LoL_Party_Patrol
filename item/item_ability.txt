@@ -1,0 +1,20 @@
+삼위일체,trinity_force,삼중 공격
+터보 화공 탱크,turbo_chemtank,고속 충전 완료
+태양불꽃 방패,sunfire_aegis,불의 손길
+발걸음 분쇄기,stridebreaker,제압의 가르기
+슈렐리아의 군가,shurelyas_battlesong,고무
+균열 생성기,riftmaker,공허의 부패
+자객의 발톱,prowlers_claw,모래 일격
+밤의 수확자,night_harvester,영혼 찢기
+월석 재생기,moonstone_renewer,별빛 은총
+루덴의 폭풍,ludens_tempest,메아리
+강철의 솔라리 펜던트,locket_of_the_iron_solari,헌신
+리안드리의 고뇌,liandrys_anguish,고통
+크라켄 학살자,kraken_slayer,벼락
+제국의 명령,imperial_mandate,합동 공격
+불멸의 철갑궁,immortal_shieldbow,생명선
+돌풍,galeforce,폭우
+서리불꽃 건들릿,frostfire_gauntlet,고립
+만년서리,everfrost,빙결
+월식,eclipse,늘 떠오르는 달
+신성한 파괴자,divine_sunderer,주문 검
